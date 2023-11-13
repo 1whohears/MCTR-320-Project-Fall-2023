@@ -1,0 +1,14 @@
+https://www.keyestudio.com/products/keyestudio-upgraded-4wd-bt-multi-purpose-smart-car-v20-for-arduino-robot-kit-programming-diy-robot-car
+https://wiki.keyestudio.com/KS0559(KS0559F%EF%BC%89Keyestudio_4WD_BT_Multi-purpose_Car_V2.0
+
+https://www.keyestudio.com/products/keyestudio-quick-connectors-motor-drive-shield-v2-for-arduino-robot
+https://wiki.keyestudio.com/KS0435_Keyestudio_Motor_Drive_Shield_V2#PINOUT_Diagram
+
+https://www.keyestudio.com/products/keyestudio-uno-r3-atmega328p-development-board-usb-cable-for-arduino
+https://wiki.keyestudio.com/Ks0001_keyestudio_UNO_R3_BOARD#Other_Resources
+
+https://docs.arduino.cc/hardware/uno-rev3
+
+https://www.parallax.com/product/ping-ultrasonic-distance-sensor/
+
+https://www.dropbox.com/sh/58jimfw7v99ym6a/AAByKDWBDQpjRDEoEXFfuU0Ya/3.%20Arduino%20Tutorial/3.%20Projects/Project%2013%20Ultrasonic%20Obstacle%20Avoidance%20Smart%20Car?dl=0&preview=Project+13+Ultrasonic+Obstacle+Avoidance+Smart+Car.pdf&subfolder_nav_tracking=1

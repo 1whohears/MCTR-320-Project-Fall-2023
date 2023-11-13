@@ -1,0 +1,13 @@
+It is now known that at least one obsticle will be in the middle.
+
+Robot will start in bottom right and the goal is top left.
+
+Suggested to create an internal map that keeps track of obsticles and current position.
+
+Need to do a sweep more often. 
+
+Being fast is pointless if you drive into walls. Speed is secondary priority.
+
+Remember that ultra sonic distance sensors are inaccurate when pointing at non tangent surfaces.
+
+Probably need to have a drive and update map/sweep tasks run asynchronously.
