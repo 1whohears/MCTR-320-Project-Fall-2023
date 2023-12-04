@@ -1,0 +1,15 @@
+BOT WIDTH:  ~16cm
+BOT LENGTH: ~30cm
+
+the start orientation of the bot should not matter
+
+bring our own arena 
+
+order compass/accelerometer to accuratly measure turn angle
+
+or measure distance from wall while driving forward to go straight  
+
+make sure it doesn't go too far in the back up stage
+
+https://www.arduino.cc/reference/en/libraries/hmc6352/
+
